@@ -1,5 +1,5 @@
 {
-  "homepage": "http://David3527.github.io/test-react-site-10-4",
+  "homepage": "https://David3527.github.io/test-react-site-10-4",
   "name": "test-10-4",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages - d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
